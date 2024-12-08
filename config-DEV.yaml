@@ -4,21 +4,21 @@
 COINBASE_PRO:
   URL: "https://api.exchange.coinbase.com"
   TEST:
-    KEY: "CHANGE-ME" #TODO Change this KEY
-    SECRET: "CHANGE-ME"#TODO: Change this secret
+    KEY: "organizations/5c5d0ab1-bdb8-4e2a-8e96-e92195b204eb/apiKeys/a954faa6-891e-4f39-9099-8897ea7b729c" #TODO Change this KEY
+    SECRET: "-----BEGIN EC PRIVATE KEY-----\nMHcCAQEEIMZUoRaxceqMEgAK/0+APXsj9Hg/Qu6t7d2KXYggHoAioAoGCCqGSM49\nAwEHoUQDQgAEn1vuFVV/Qp2Ne+zOKdxxWg2AflY2K/BcIWI5Y5nmbDMzkxPpdFzx\n3v3bKpguN14YiOV2A27xeP2zH9kJpFdGhw==\n-----END EC PRIVATE KEY-----\n" #TODO: Change this secret
     PASSPHRASE: "CHANGE-ME" #TODO: Change this passphrase
 
 GEMINI:
   URL: "https://api.gemini.com"
   TEST:
-    KEY: "CHANGE-ME" #TODO: Change this key
-    SECRET: "CHANGE-ME" #TODO: Change this secret
+    KEY: "account-JQMSqw2aK3dFkXeD48sG" #TODO: Change this key
+    SECRET: "2AjCpKh1jWA64iisFNcpzj8GVrd9" #TODO: Change this secret
 
 KRAKEN:
   URL: "https://api.kraken.com"
   Test:
-    KEY: "CHANGE-ME" #TODO: Change this key
-    SECRET: "CHANGE-ME" #TODO: Change this secret
+    KEY: "MlaoLMysbQzOSopTOBtDKDXXRqMkAHnd91+yVcTE0s04ktfla3aLUO5c" #TODO: Change this key
+    SECRET: "L94/4NHtWhFQLS0Pz6nX8Td8bVTUWBeAleBQ9T9wC3beXNRqw9KgrwAYOajbzG/DCACJK8e+61sVrCPFIrEolA==" #TODO: Change this secret
 
 ############ DATABASE CONFIGURATIONS ############
 DATABASE:
